@@ -1,0 +1,14 @@
+.orange {
+    width: 100px; height: 100px;
+    background-color: orange;
+}
+.green {
+    width: 100px; height: 100px;
+    background-color: lightgreen;
+    margin-top: 10px;
+}
+
+.link{
+    margin: 200px 0 0 100px;
+}
+a { padding: 10px; color: black;}

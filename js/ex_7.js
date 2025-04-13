@@ -1,0 +1,5 @@
+gsap.timeline() 
+    .from('div', {duration:1, rotation: 360, stagger: .3})
+    .to ('div', {y: 300, ease: 'bounce', stagger: .2})
+    .to ('div', {y: 0, ease: 'back', stagger: .2})
+    .to ('div', {opacity: 0, stagger: .2})

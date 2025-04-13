@@ -1,0 +1,10 @@
+div.green {
+    width: 100px; height: 100px;
+    background-color: lightgreen;
+    position: absolute;
+    left: 200px; /* left: 200px 이기 때문에 x:200위치가 초기값이 됨*/
+}
+
+a {
+    color: black; 
+}

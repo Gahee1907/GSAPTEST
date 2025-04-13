@@ -1,0 +1,12 @@
+div {
+    width: 100px; height: 100px; margin-top: 10px;
+    border-radius: 10px;
+}
+
+.pink {background-color: pink;}
+.green {background-color: lightgreen;}
+.blue {background-color: lightblue;}
+
+a {
+    color: black; 
+}

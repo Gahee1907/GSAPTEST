@@ -1,0 +1,11 @@
+.box {
+    width: 100px; height: 100px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.pink {background-color: pink;}
+.orange {background-color: orange;}
+.lightgreen {background-color: lightgreen;}
+.lightblue {background-color: lightblue;}
