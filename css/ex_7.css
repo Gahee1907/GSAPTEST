@@ -5,3 +5,7 @@ div {
     display: inline-block;
     margin: 10px;
 }
+
+a {
+    color: black; 
+}

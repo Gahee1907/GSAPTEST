@@ -3,3 +3,7 @@ div {
     background-color: lightgreen;
     border-radius: 10px;
 }
+
+a {
+    color: black; 
+}
